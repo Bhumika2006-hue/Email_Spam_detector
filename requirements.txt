@@ -5,6 +5,5 @@ nltk
 joblib
 matplotlib
 seaborn
-wordcloud==1.8.2.2
 xgboost==1.7.6
 streamlit==1.39.0
